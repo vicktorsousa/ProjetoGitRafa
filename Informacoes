@@ -1,0 +1,30 @@
+git init <- Criar repositorio.
+git add <nome> <- Para colocar o nome do nosso arquivo.
+git status <- mostrar os estatus.
+git commit -m <"Mensagem"> <- para colocar o nosso arquivo criado dentro da area de estende.
+
+git branch -M "main" <- renomear a branch que estou.
+
+git remote add origin <link> / Shift + Insert cola /  CTRL + SHIFT + C para copiar 
+git remote <- Só criar uma vez a conexão com o gihub
+
+Git <- toda vez que a gente for fazer um comando
+Remote <- é a conexão entre o local e o github
+Add <- adicionar
+Origin <- é um nome padrão
+
+git push -u origin main
+clear <- o de sempre
+
+git add . <- manda todos os arquivos
+
+git push origin main
+
+git checkout -b "Novo-botao"
+checkout <- trocar de branch ex: main
+
+git merge Novo-botao <- merge é tipo mesclar
+
+git clone <link> <- 
+
+cd <- comando para entrar numa pasta
